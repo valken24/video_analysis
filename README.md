@@ -51,7 +51,7 @@ El presente caso de instalación será enfocada para utilizar el dataset ya pre-
 
 ## Repository Structure
 
-![Repo Structure](https://lh3.googleusercontent.com/3PJ5HrzpOcFoMQSdy2RFsCecdJTZr-0puO6-V0BZzZwblR4juwMi7dODcFCK8YZY_O8gQTUiK2Hu6a5io_TIioPBU3lnGE2pPujo5Dzj92HLuoxeN6lNuoGeIsK0suauDXNq4rhfrr3EDMR2EV3NL6lLF8dSlbhPLaRGn9vLQ9eIc5fK5gvDObKqODSoK53PAvtHdt21Y0AjMWu6LH3mNXFJ6Mh5VWPmjRiWFTabmxtLeLDqwBcGWj_SLKjKRPtdmPOX_gFTjQFBNVkWnpXWJgrOb6K2yPpQhdT0EJ1_ygNUVFOip6fzKj2NfeiOG73KYfG9a4-aX2c9bKtzp4iHWBpi0F11JktRD3vXZoZQHJNSj3Yep30FMF6CZlbzPXKgFPJLXFyuYYznmPQeLGpHh0f4NB0G4pi7U_VzN_wScUgyOG0925lX2V8FgiZusbG2t4ZpGW0LRzK7Njr9TmtJbouY5qOlTMt-vCtG__mhBy_qbzb_WkpihkjuJbM8cerZKPinpD26AGkswdUqrUFtYm7xsrq548Kdy6JuImMTDg7MU0BtSAN4cNaxKA0GX5P1jNYThuUq735NDdrlFysDEM6NvBjuIcK25wdcuhEL4pmxv5FHd8DWcBqWEYn8MaN1N-mwksfZJXmIgbAOGKf-4Pf8ud6Yy-H1IGV3ge1BaqpmjJVCIochYg=w258-h366-no)
+![Repo Structure](images/folder_struct.jpg)
 - `data:`  Contenedor por defecto de dataset.
 - `outputs:` Contenedor por defecto de resultados de entrenamiento y testing.
 - `runs:` Contenedor por defecto de tensorboard en la cual son almacenados los datos del entrenamiento.
